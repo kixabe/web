@@ -1,9 +1,14 @@
 {
   "name": "@kixabe/web",
   "version": "0.0.1",
-  "scripts": {},
+  "scripts": {
+    "build": "node scripts/build"
+  },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "fs-extra": "~9.0.0",
+    "html-minifier": "~4.0.0"
+  },
   "engines": {
     "node": "12.x"
   },
