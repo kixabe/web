@@ -1,0 +1,11 @@
+{
+  "name": "@kixabe/web",
+  "version": "0.0.1",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "12.x"
+  },
+  "private": true
+}
